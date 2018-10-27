@@ -586,3 +586,8 @@ Website: amirnaghibi.github.io<br>
 Twitter: amir__naghibi<br>
 Github: https://github.com/amirnaghibi<br>
 
+Name: Sanduni Ekanayaka  
+Bio: Student, Undergraduate in Computer Science  
+Place: Anuradhapura,Sri Lanka 
+Github: https://github.com/sanduni-E 
+
